@@ -1,2 +1,3 @@
-# technical-writing-
+# Technical writing 
+
 Resources relating to technical writing 
